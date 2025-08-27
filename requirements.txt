@@ -1,0 +1,8 @@
+flax
+onnx
+jax2onnx
+numpy
+torch
+torchvision
+optax
+tensorboard
